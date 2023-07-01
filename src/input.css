@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+
+width: 100%;
+height: 100vh;
+background: rgb(15,19,64);
+background: linear-gradient(0deg, rgba(15,19,64,1) 0%, rgba(29,31,63,1) 29%, rgba(47,13,62,1) 78%);
+
+}
+
+navbar {
+  display:flex;
+  height: 70px;
+  width: 100vw;
+  -webkit-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+li {
+  color: white;
+  cursor: pointer;
+}
+
+
+section {
+  cursor: pointer
+}
+
+
+
+img {
+
+}
+
+
+li:hover {
+  color: White;
+}
+
+#Backimg-1 {
+  background-image: url(./assets/imgs/EthanNova.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+#Backimg-2 {
+  background-image: url(./assets/imgs/Aveline.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+
+
+#Backimg-3 {
+  background-image: url(./assets/imgs/lucasBackwood.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+#Backimg-4 {
+  background-image: url(./assets/imgs/SophiaTompson.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+#Backimg-5 {
+  background-image: url(./assets/imgs/AlexandreKnight.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+#Backimg-6 {
+  background-image: url(./assets/imgs/NoahSummers.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+#Backimg-7 {
+  background-image: url(./assets/imgs/GabrielNova.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+
+#Backimg-8 {
+  background-image: url(./assets/imgs/AdrianCollins.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+#Backimg-9 {
+  background-image: url(./assets/imgs/LucasBlackthorn.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+#Backimg-10 {
+  background-image: url(./assets/imgs/DevanStone.png);
+  background-position: center;
+  background-size: cover;
+  -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+
+}
+
