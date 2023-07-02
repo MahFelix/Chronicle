@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes gradient-x {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient-x {
+  animation: gradient-x 5s linear infinite;
+}
+
+
+
+
+#card-text{
+    -webkit-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 9px 15px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+
+body {
+  min-height: 100vh;
+  background: #0c192c;
+}
+
+#container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+#bolhas {
+  position:relative;
+  display: flex;
+}
+
+#bolhas span {
+  width: 30px;
+  height: 30px;
+  background: #e5ff00;
+  margin: 0 4px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 10px #e5ff0044,
+  0 0 50px #e5ff00,
+  0 0 100px #e5ff00;
+  animation: animar calc(30s / var(--i)) linear infinite;
+}
+
+#bolhas span:nth-of-type(even) {
+  background: #2dc3ff;
+  box-shadow: 0 0 0 10px #2dc3ff;44,
+  0 0 50px #2dc3ff;,
+  0 0 100px #2dc3ff;0;
+}
+
+@keyframes animar {
+  0% {
+      transform: traslateY(100vh) scale(0);
+  }
+
+  100% {
+transform: traslateY(-10vh) scale(1);
+  }
+}
