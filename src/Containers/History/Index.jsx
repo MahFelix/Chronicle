@@ -23,10 +23,11 @@ const index  = () => {
         <div className=''>
 
         <h2 className="text-2xl font-bold mb-4">Ethan Nova</h2>
+          Nome: Ethan Nova<br></br>
+      História de Origem: <br></br><br></br>
         </div>
         <p className="text-gray-600 text-2xl">
-          Nome: Ethan Nova<br></br>
-  História de Origem: <br></br><br></br>
+
    Ethan Nova nasceu em um planeta distante, conhecido como Caelum, onde seres cósmicos concedem poderes divinos a indivíduos especiais. Durante sua infância, Ethan foi escolhido por uma entidade cósmica e recebeu a dádiva de controlar os elementos da tempestade. À medida que cresceu, seus poderes se expandiram, permitindo-lhe manipular a realidade e até mesmo criar planetas.  <br></br><br></br>
 
 Poderes e Habilidades:

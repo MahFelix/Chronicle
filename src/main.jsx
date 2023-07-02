@@ -6,6 +6,6 @@ import './input.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Index />
+    <App />
   </React.StrictMode>,
 )
