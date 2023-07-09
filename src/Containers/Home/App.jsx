@@ -36,11 +36,11 @@ function App() {
 
          <div className="">
           <ul className="flex flex-col  justify-start mt-[100px] gap-[20px] text-2xl  text-[#9E9E9E]  max-lg:text-sm">
-                  <li className=" w-full p-4 border-b  text-[#9E9E9E]"> INÍCIO </li>
-                  <li className=" w-full p-4 border-b text-[#9E9E9E]"> HISTORIAS </li>
-                  <li className=" w-full p-4 border-b text-[#9E9E9E]"> CRIADORES</li>
-                  <li className=" w-full p-4 border-b text-[#9E9E9E]"> ARTES </li>
-                  <li className="  p-4 border-b text-[#9E9E9E]"> CONTATO </li>
+                  <li className=" w-full p-4 border-b  hover:bg-black  text-[#9E9E9E]"> INÍCIO </li>
+                  <li className=" w-full p-4 border-b  hover:bg-black text-[#9E9E9E]"> HISTORIAS </li>
+                  <li className=" w-full p-4 border-b  hover:bg-black text-[#9E9E9E]"> CRIADORES</li>
+                  <li className=" w-full p-4 border-b  hover:bg-black text-[#9E9E9E]"> ARTES </li>
+                  <li className="  p-4 border-b  hover:bg-black text-[#9E9E9E]"> CONTATO </li>
         </ul>
         </div>
   </div>
