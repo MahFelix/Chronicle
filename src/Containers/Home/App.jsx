@@ -17,11 +17,11 @@ function App() {
 
 
       <div className="flex justify-center mt-[30px] mb-[30px]">
-          <h1 className='text-[white] text-7xl justify-center items-center max-lg:ml-6 text-[bold]' > Character Chronicle Caelum</h1>
+          <h1 className='text-[white] text-7xl justify-center items-center max-lg:ml-6 text-[bold]  max-lg:text-3xl ' > Character Chronicle Caelum</h1>
 
 
 <nav>
-            <div className=" flex absolute right-0 lg:hidden max-lg:mr-6">
+            <div className=" flex absolute right-0 lg:hidden max-lg:mr-1">
         <button onClick={toggleNavbar}>
        {true ? (
        <HamburgerIcon />
@@ -35,7 +35,7 @@ function App() {
          <div id='navbar' className=" justify-end items-start  flex lg:hidden ">
 
          <div className="">
-          <ul className="flex flex-col  justify-start mt-[100px] gap-[20px] text-2xl text-[#9E9E9E] ">
+          <ul className="flex flex-col  justify-start mt-[100px] gap-[20px] text-2xl text-[#9E9E9E]  max-lg:text-sm">
                   <li className=" w-full p-4 border-b  text-[#9E9E9E]"> INÍCIO </li>
                   <li className=" w-full p-4 border-b text-[#9E9E9E]"> HISTORIAS </li>
                   <li className=" w-full p-4 border-b text-[#9E9E9E]"> CRIADORES</li>
