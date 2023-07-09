@@ -21,7 +21,7 @@ function App() {
 
 
 <nav>
-            <div className=" flex absolute right-0 lg:hidden max-lg:mr-1">
+            <div className=" flex absolute right-0 lg:hidden max-lg:mr-1 ">
         <button onClick={toggleNavbar}>
        {true ? (
        <HamburgerIcon />
@@ -32,10 +32,10 @@ function App() {
         </div>
 
 
-         <div id='navbar' className=" justify-end items-start  flex lg:hidden ">
+         <div id='navbar' className=" justify-end items-start  flex lg:hidden">
 
          <div className="">
-          <ul className="flex flex-col  justify-start mt-[100px] gap-[20px] text-2xl text-[#9E9E9E]  max-lg:text-sm">
+          <ul className="flex flex-col  justify-start mt-[100px] gap-[20px] text-2xl  text-[#9E9E9E]  max-lg:text-sm">
                   <li className=" w-full p-4 border-b  text-[#9E9E9E]"> INÍCIO </li>
                   <li className=" w-full p-4 border-b text-[#9E9E9E]"> HISTORIAS </li>
                   <li className=" w-full p-4 border-b text-[#9E9E9E]"> CRIADORES</li>
@@ -52,7 +52,7 @@ function App() {
     <Navbar />
 
       <div className="flex justify-center mt-[50px] mb-[50px]">
-        <h2 className='text-[white] text-5xl justify-center items-center '> Personagens </h2>
+        <h2 className='text-[white] text-5xl justify-center items-center max-lg:text-3xl'> Personagens </h2>
       </div>
 
         <div className='max-lg:flex items-center justify-center gap-8 '>
