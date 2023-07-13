@@ -2,6 +2,7 @@
 import Navbar from '../../components/Navbar/Navbar'
 import SectionOne from '../../components/Sections/SectionOne'
 import SectionTwo from '../../components/Sections/SectionTwo'
+import SectionTree from '../../components/Sections/SectionTree'
 import HamburgerIcon from "../../components/icon-hamburguer/HamburgerIcon"
 
 
@@ -62,6 +63,7 @@ function App() {
 
    <SectionOne />
    <SectionTwo />
+   <SectionTree />
         </div>
 
 

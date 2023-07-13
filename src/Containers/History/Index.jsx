@@ -1,8 +1,4 @@
-import EthanNova from '../../assets/imgs/EthanNova.png'
-import EthanNova1 from '../../assets/imgs/EthanNovaa/EN1.png'
-import EthanNova3 from '../../assets/imgs/EthanNovaa/EN3.png'
-import EthanNova4 from '../../assets/imgs/EthanNovaa/EN4.png'
-import EthanNova5 from '../../assets/imgs/EthanNovaa/EN5.png'
+
 
 const index  = () => {
   return (
@@ -10,12 +6,6 @@ const index  = () => {
 
   <main className=''>
     <div>
-
-    <img  className='absolute p-[10px] rounded-[12px]  ' src={EthanNova}/>
-    <img  className='absolute p-[10px] bottom-2 rounded-[12px] w-[400px]  ' src={EthanNova1}/>
-      <img  className='absolute p-[10px] bottom-2 rounded-[12px] w-[400px]  ' src={EthanNova3}/>
-       <img  className='absolute p-[10px] right-2 bottom-2 rounded-[12px] w-[400px]  ' src={EthanNova4}/>
-       <img  className='absolute p-[10px] right-2 rounded-[12px] w-[400px]  ' src={EthanNova5}/>
 
     </div>
      <div  className="flex items-center justify-center h-screen ">
