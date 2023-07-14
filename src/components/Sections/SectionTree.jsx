@@ -78,28 +78,35 @@ A história de Aurora Gartix é uma saga de superação, autodescoberta e persev
  )
 }
 
-else if(namePerson === 'Lucas Backwood'){
+else if(namePerson === 'Aria Nova'){
  return(
     <h1>
-Nome: Lucas Blackwood
+Nome: Aria Nova
 <br></br><br></br>
-História de Origem:
-
- Lucas Blackwood nasceu em uma linhagem ancestral de seres com conexões com o plano da luz. Desde jovem, ele manifestou uma afinidade natural com a energia luminosa e desenvolveu habilidades especiais. Conforme crescia, descobriu seu potencial para influenciar mentes e drenar a energia vital de outras pessoas.<br></br><br></br>
-
-Poderes e Habilidades:
-Manipulação da Luz: Lucas possui a habilidade de manipular e controlar a luz. Ele pode criar e projetar feixes de luz brilhante, cegar temporariamente seus oponentes, criar ilusões com luz e até mesmo gerar escudos protetores feitos de energia luminosa. Seus poderes luminosos também lhe conferem uma visão aprimorada em ambientes escuros.<br></br><br></br>
-
-Telepatia: Lucas tem o dom de se comunicar mentalmente com outras pessoas. Ele pode ler e transmitir pensamentos, ideias e emoções entre as mentes, estabelecendo conexões telepáticas com aqueles ao seu redor. Essa habilidade permite que ele compartilhe informações, planeje estratégias em equipe e influencie mentalmente os outros.
+Planeta de origem: Caelum
 <br></br><br></br>
-Drenar Vitalidade: Lucas tem a capacidade de drenar a vitalidade e energia vital de outros seres. Ele pode absorver a força vital de seus oponentes, enfraquecendo-os e fortalecendo-se em troca. Essa habilidade pode ser usada como uma forma de defesa, para restaurar sua própria energia ou como uma arma contra adversários poderosos.
+Poderes:
 <br></br><br></br>
-Personalidade e Motivação: Lucas é um personagem complexo, cuja personalidade é influenciada pelos poderes que possui. Ele é geralmente reservado, mantendo uma aura misteriosa e calma. Lucas luta internamente com o equilíbrio entre a luz e a escuridão em seu coração, esforçando-se para usar seus poderes de maneira responsável e justa. Sua motivação é proteger os inocentes e manter a paz, mesmo que isso signifique enfrentar seus próprios conflitos internos.
+Controle dos Elementos: Aria tem a habilidade de controlar os elementos da natureza, como fogo, água, terra e ar. Ela pode criar tempestades, controlar o clima, gerar terremotos e manipular os elementos em sua forma mais pura.
 <br></br><br></br>
-Arqui-inimigos: Lucas enfrenta oponentes que buscam abusar do poder da luz e explorar os outros. Um de seus principais inimigos é um ser maligno que deseja utilizar a energia vital de outros para alcançar imortalidade e poder supremo. Lucas se opõe a essas forças sombrias, lutando para proteger aqueles que estão em perigo e preservar o equilíbrio entre a luz e a escuridão.
+Super Força: Aria possui uma força sobre-humana, permitindo que ela levante objetos extremamente pesados e enfrente adversários poderosos. Sua força aprimorada a torna uma defensora formidável e capaz de realizar feitos impressionantes em combate.
 <br></br><br></br>
-Equipe e Aliados: Lucas encontra aliados entre aqueles que compreendem sua luta interna e compartilham seus ideais. Ele se junta a outros heróis com habilidades únicas para enfrentar ameaças maiores. Sua equipe busca combater a injustiça e proteger aqueles que não podem se proteger sozinhos
-
+Super Sentidos: Aria possui sentidos super aguçados, tornando-a capaz de perceber o ambiente ao seu redor de forma extraordinária. Ela pode enxergar à distância, ouvir sons sutis e sentir vibrações imperceptíveis para outras pessoas.
+<br></br><br></br>
+Poder de Parar o Tempo: Aria tem a habilidade de congelar o tempo ao seu redor, permitindo que ela se mova livremente enquanto o resto do mundo permanece imóvel. Essa habilidade lhe confere uma vantagem estratégica em combate e a capacidade de tomar decisões com calma em momentos críticos.
+<br></br><br></br>
+História
+<br></br><br></br>
+Aria Nova é uma mulher madura, segura e empoderada, nascida em Caelum com dons extraordinários. Desde muito jovem, ela teve que aprender a controlar seus poderes, o que não foi uma tarefa fácil. Sua infância foi marcada por desafios, já que seus pais não compreendiam plenamente seus dons e, às vezes, temiam o que ela poderia fazer.
+<br></br><br></br>
+Apesar das dificuldades, Aria perseverou e se tornou uma mulher confiante e poderosa. Ela usou seus poderes para ajudar e proteger os outros em Caelum, defendendo a justiça e a harmonia em seu planeta.
+<br></br><br></br>
+Ao longo da vida, Aria deu à luz duas filhas: Mythen Nova e Ethan Nova. No entanto, ela acabou se perdendo delas quando ainda eram bebês, devido a eventos misteriosos que a afastaram de suas filhas. Essa separação deixou uma lacuna em seu coração, mas ela nunca parou de procurá-las em sua busca incansável por reunir sua família novamente.
+<br></br><br></br>
+Aria dominou completamente seus poderes, aprimorando suas habilidades e entendendo a responsabilidade que vem com eles. Seu controle sobre os elementos é incomparável, e sua força, sentidos e capacidade de parar o tempo a tornam uma força imparável em Caelum.
+<br></br><br></br>
+Apesar das adversidades, Aria sempre se manteve firme em sua missão de proteger Caelum e reencontrar suas filhas. Sua história é uma jornada de amor, resiliência e autodescoberta, enquanto ela luta pela justiça, enfrenta seus desafios pessoais e mostra ao mundo que uma mulher empoderada e com grande poder pode fazer a diferença.
+<br></br><br></br>
 
     </h1>
  )
@@ -177,7 +184,7 @@ A história de Alexandre Knight é uma saga de heroísmo e perseverança, um sí
           setName={setNamePerson} name='Aurora Gartix' id='Backimg-12'/>
 
           <Cardprops  setValue={setShowPup} value={showPup} setText={setDescription}
-          setName={setNamePerson} name='' id=''/>
+          setName={setNamePerson} name='Aria Nova' id='Backimg-13'/>
 
           <Cardprops  setValue={setShowPup} value={showPup} setText={setDescription}
           setName={setNamePerson} name='' id=''/>
