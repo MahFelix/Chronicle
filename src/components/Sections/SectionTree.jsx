@@ -44,31 +44,36 @@ A história de Mythen Nova é uma saga de manipulação e perversidade, represen
       </h1>
     )
    }
-else if(namePerson === 'Aveline Morganroth'){
+else if(namePerson === 'Aurora Gartix'){
  return(
     <h1>
-      Nome: Aveline Morganroth
+    Nome: Aurora Gartix
 <br></br><br></br>
 Planeta de origem: Caelum
 <br></br><br></br>
-Habilidades especiais:
+Poderes:
 <br></br><br></br>
-Asas de Ferro: Aveline possui asas feitas de um material especial, semelhante ao ferro. Essas asas conferem a ela a habilidade de voar com agilidade e velocidade, permitindo-lhe atravessar grandes distâncias e alcançar alturas impressionantes. As asas de ferro também fornecem uma camada adicional de proteção em combate, agindo como uma armadura contra ataques físicos.
+Intangibilidade: Aurora tem a habilidade de se tornar intangível, permitindo que ela passe através de objetos sólidos sem sofrer danos. Essa habilidade lhe confere vantagem tática em situações de combate e a capacidade de se infiltrar em locais inacessíveis.
 <br></br><br></br>
-Telepatia: Aveline possui o poder da telepatia, o que lhe permite ler mentes, transmitir pensamentos e se comunicar mentalmente com outras pessoas. Ela pode receber e enviar informações telepaticamente, permitindo a troca de ideias e a transmissão de mensagens sem o uso da fala ou outros meios convencionais de comunicação.<br></br><br></br>
-
-Comunicação com os Mortos: Aveline tem a capacidade de se comunicar com os mortos. Ela pode entrar em contato com espíritos e almas que partiram para o além, permitindo-lhe obter informações e conhecimentos do mundo dos mortos. Essa habilidade permite que ela explore o passado, descubra segredos ocultos e até mesmo busque orientação espiritual.
+Super Força: Aurora possui uma força sobre-humana, permitindo que ela levante objetos extremamente pesados e enfrente oponentes poderosos. Sua força aprimorada também a torna uma defensora formidável e capaz de realizar proezas físicas impressionantes.
 <br></br><br></br>
-História:
-Aveline Morganroth é uma figura lendária em Caelum, um planeta repleto de mistérios e segredos. Ela nasceu com asas feitas de um metal raro e resistente, semelhante ao ferro, que lhe concedeu a habilidade única de voar pelos céus do planeta. Desde jovem, Aveline se destacou por sua coragem, sabedoria e habilidades excepcionais.
+Vôo: Aurora é capaz de voar, elevando-se pelos céus de Caelum com graciosidade e facilidade. Essa habilidade lhe proporciona mobilidade incrível, permitindo que ela se desloque rapidamente pelo planeta e alcance lugares de difícil acesso.
 <br></br><br></br>
-Além de suas asas de ferro, Aveline descobriu cedo em sua vida que possuía o dom da telepatia. Ela podia ouvir os pensamentos e sentimentos das pessoas ao seu redor, estabelecendo uma conexão profunda com os outros e compreendendo seus desejos mais íntimos. Essa habilidade a tornou uma mediadora habilidosa e uma líder respeitada.
+Hipnose: Aurora possui o poder de hipnotizar e controlar a mente dos outros. Ela pode influenciar os pensamentos, emoções e ações das pessoas, usando sua habilidade de hipnose para obter informações, resolver conflitos ou manipular situações a seu favor.
+<br></br><br></br><br></br><br></br>
+Duplicação: Aurora pode criar duplicatas de si mesma, permitindo que ela esteja em vários lugares ao mesmo tempo. Essa habilidade a torna uma lutadora versátil, capaz de confundir e sobrecarregar seus oponentes com ataques coordenados.
 <br></br><br></br>
-No entanto, foi durante um encontro com a morte que Aveline descobriu seu dom mais extraordinário: a capacidade de se comunicar com os mortos. Ela pode atravessar a barreira entre os reinos da vida e da morte, estabelecendo contato com espíritos e almas que partiram. Essa habilidade de comunicação com os mortos permitiu a Aveline explorar os segredos do passado, desvendar mistérios antigos e buscar sabedoria ancestral.
+História:<br></br><br></br>
+Aurora Gartix nasceu em uma tribo rara de Caelum, conhecida por sua linhagem excepcional de poderes especiais. No entanto, quando era criança, seus poderes foram misteriosamente retirados, deixando-a sem acesso às suas habilidades únicas.
 <br></br><br></br>
-Aveline se tornou uma guardiã e protetora de Caelum, usando suas asas de ferro para patrulhar os céus e garantir a segurança de seu povo. Ela é conhecida por sua sabedoria, justiça e compaixão. Sua telepatia e habilidade de comunicação com os mortos a tornam uma conselheira valiosa para aqueles que buscam orientação espiritual ou conhecimento além do mundo físico.
+Apesar dessa perda, Aurora cresceu com uma confiança inabalável e um forte amor-próprio. Ela sempre soube que estava destinada a grandes feitos e que seus poderes voltariam para ela quando fosse o momento certo.
 <br></br><br></br>
-Aveline Morganroth é reverenciada como uma lenda viva em Caelum, uma líder cujas habilidades únicas e compreensão dos mistérios do universo a tornam uma força inigualável. Sua jornada continua, desvendando os segredos do planeta e protegendo seu povo com suas habilidades extraordinárias.
+Na vida adulta, um evento surpreendente ocorreu, desencadeando o retorno de seus poderes de forma intensa. Aurora abraçou sua herança e se tornou uma defensora justa em Caelum, usando seus dons para proteger os inocentes, lutar pela justiça e garantir a segurança de seu planeta natal.
+<br></br><br></br>
+Aurora é admirada por sua força de vontade e determinação incansável. Ela conquista tudo o que deseja com coragem e inteligência, sempre seguindo um código de conduta justo e moral.
+<br></br><br></br>
+A história de Aurora Gartix é uma saga de superação, autodescoberta e perseverança. Ela personifica a resiliência de sua linhagem rara de uma tribo de Caelum, mostrando que, mesmo diante da adversidade, a verdadeira força vem de dentro e nunca deve ser subestimada. Aurora é um símbolo de esperança e inspiração para todos em seu planeta.
+<br></br><br></br>
     </h1>
  )
 }
@@ -169,7 +174,7 @@ A história de Alexandre Knight é uma saga de heroísmo e perseverança, um sí
            />
 
           <Cardprops  setValue={setShowPup} value={showPup} setText={setDescription}
-          setName={setNamePerson} name='' id=''/>
+          setName={setNamePerson} name='Aurora Gartix' id='Backimg-12'/>
 
           <Cardprops  setValue={setShowPup} value={showPup} setText={setDescription}
           setName={setNamePerson} name='' id=''/>
