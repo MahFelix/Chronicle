@@ -40,22 +40,22 @@ Planeta de origem: Caelum
 <br></br><br></br>
 Poderes:<br></br><br></br>
 
-Parar o Tempo: Gabriel possui a habilidade de controlar o tempo ao seu redor. Ele pode interromper o fluxo do tempo, fazendo com que tudo e todos ao seu redor fiquem imóveis. Essa capacidade lhe permite realizar ações e tomar decisões enquanto o mundo ao seu redor está parado, concedendo-lhe uma vantagem estratégica em situações de perigo ou necessidade.
+Parar o Tempo: Maude possui a habilidade de controlar o tempo ao seu redor. Ele pode interromper o fluxo do tempo, fazendo com que tudo e todos ao seu redor fiquem imóveis. Essa capacidade lhe permite realizar ações e tomar decisões enquanto o mundo ao seu redor está parado, concedendo-lhe uma vantagem estratégica em situações de perigo ou necessidade.
 <br></br><br></br>
-Controle de Sonhos: Gabriel tem a habilidade de controlar e influenciar os sonhos das pessoas. Ele pode entrar nos sonhos de outros e alterar seu conteúdo, manipulando as experiências e emoções durante o sono. Isso permite que ele se comunique de forma única e transmita mensagens ou afete o estado mental de outras pessoas através de seus sonhos.
+Controle de Sonhos: Maude tem a habilidade de controlar e influenciar os sonhos das pessoas. Ele pode entrar nos sonhos de outros e alterar seu conteúdo, manipulando as experiências e emoções durante o sono. Isso permite que ele se comunique de forma única e transmita mensagens ou afete o estado mental de outras pessoas através de seus sonhos.
 <br></br><br></br>
-Controle de Sentimentos: Gabriel tem a capacidade de manipular e influenciar os sentimentos das pessoas ao seu redor. Ele pode intensificar ou diminuir emoções, como amor, raiva, tristeza, alegria, entre outros. Essa habilidade lhe dá a capacidade de acalmar conflitos, inspirar coragem ou provocar medo, dependendo de sua intenção e dos objetivos que deseja alcançar.
+Controle de Sentimentos: Maude tem a capacidade de manipular e influenciar os sentimentos das pessoas ao seu redor. Ele pode intensificar ou diminuir emoções, como amor, raiva, tristeza, alegria, entre outros. Essa habilidade lhe dá a capacidade de acalmar conflitos, inspirar coragem ou provocar medo, dependendo de sua intenção e dos objetivos que deseja alcançar.
 <br></br><br></br>
 História:
-Maude Connor é um ser extraordinário que reside em Caelum, um planeta de mistérios e poderes sobrenaturais. Ele é primo de Ethan Nova, a deusa da tempestade, e compartilha um vínculo especial com ela. Desde jovem, Gabriel manifestou habilidades únicas e incomuns, tornando-o uma figura intrigante entre os habitantes de Caelum.
+Maude Connor é um ser extraordinário que reside em Caelum, um planeta de mistérios e poderes sobrenaturais. Ele é primo de Ethan Nova, a deusa da tempestade, e compartilha um vínculo especial com ela. Desde jovem, Maude manifestou habilidades únicas e incomuns, tornando-o uma figura intrigante entre os habitantes de Caelum.
 <br></br><br></br>
-A habilidade de Gabriel de controlar o tempo é uma das suas características mais impressionantes. Ele aprendeu a dominar essa habilidade ao longo dos anos, permitindo-lhe parar o tempo ao seu redor quando necessário. Essa capacidade confere a ele uma vantagem estratégica em situações perigosas, permitindo-lhe tomar decisões e agir enquanto todos os outros estão imóveis.
+A habilidade de Maude de controlar o tempo é uma das suas características mais impressionantes. Ele aprendeu a dominar essa habilidade ao longo dos anos, permitindo-lhe parar o tempo ao seu redor quando necessário. Essa capacidade confere a ele uma vantagem estratégica em situações perigosas, permitindo-lhe tomar decisões e agir enquanto todos os outros estão imóveis.
 <br></br><br></br>
-Além disso, Gabriel possui o dom do controle dos sonhos. Ele pode entrar nos sonhos das pessoas e manipular o conteúdo de suas experiências oníricas. Essa habilidade lhe dá a capacidade de se comunicar de forma única e transmitir mensagens importantes ou influenciar o estado mental de outros através de seus sonhos.
+Além disso, Maude possui o dom do controle dos sonhos. Ele pode entrar nos sonhos das pessoas e manipular o conteúdo de suas experiências oníricas. Essa habilidade lhe dá a capacidade de se comunicar de forma única e transmitir mensagens importantes ou influenciar o estado mental de outros através de seus sonhos.
 <br></br><br></br>
-Outra habilidade notável de Gabriel é o controle de sentimentos. Ele pode manipular e influenciar as emoções das pessoas ao seu redor, intensificando ou diminuindo sentimentos específicos. Essa capacidade o torna um poderoso agente de mudança emocional, capaz de acalmar conflitos, inspirar coragem ou provocar medo, dependendo de sua intenção.
+Outra habilidade notável de Maude é o controle de sentimentos. Ele pode manipular e influenciar as emoções das pessoas ao seu redor, intensificando ou diminuindo sentimentos específicos. Essa capacidade o torna um poderoso agente de mudança emocional, capaz de acalmar conflitos, inspirar coragem ou provocar medo, dependendo de sua intenção.
 <br></br><br></br>
-Gabriel usa seus poderes de forma responsável e com compaixão. Ele está sempre em busca de equilíbrio e harmonia em Caelum, usando suas habilidades para ajudar aqueles que precisam e proteger seu planeta natal. Seu vínculo com Ethan Nova fortalece seu propósito e juntos eles trabalham para preservar a paz e a segurança de Caelum.
+Maude usa seus poderes de forma responsável e com compaixão. Ele está sempre em busca de equilíbrio e harmonia em Caelum, usando suas habilidades para ajudar aqueles que precisam e proteger seu planeta natal. Seu vínculo com Ethan Nova fortalece seu propósito e juntos eles trabalham para preservar a paz e a segurança de Caelum.
 <br></br><br></br>
 Maude Connor é uma figura cativante e misteriosa em Caelum, um protetor habilidoso com o poder de parar o tempo, controlar sonhos e sentimentos. Sua presença é reconfortante para aqueles que o conhecem, pois ele traz serenidade e influencia positivamente o mundo ao seu redor. Sua jornada continua, desvendando os segredos de Caelum e usando seus dons para trazer esperança e transformação.
 
