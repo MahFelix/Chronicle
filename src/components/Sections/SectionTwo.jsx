@@ -31,10 +31,10 @@ Ao longo de sua jornada, Noah enfrenta desafios e ameaças que testam sua corage
 </h1>
     )
    }
-else if(namePerson === 'Gabriel Nova'){
+else if(namePerson === 'Maude Connor'){
  return(
     <h1>
-Nome: Gabriel Nova
+Nome: Maude Connor
 <br></br><br></br>
 Planeta de origem: Caelum
 <br></br><br></br>
@@ -47,7 +47,7 @@ Controle de Sonhos: Gabriel tem a habilidade de controlar e influenciar os sonho
 Controle de Sentimentos: Gabriel tem a capacidade de manipular e influenciar os sentimentos das pessoas ao seu redor. Ele pode intensificar ou diminuir emoções, como amor, raiva, tristeza, alegria, entre outros. Essa habilidade lhe dá a capacidade de acalmar conflitos, inspirar coragem ou provocar medo, dependendo de sua intenção e dos objetivos que deseja alcançar.
 <br></br><br></br>
 História:
-Gabriel Nova é um ser extraordinário que reside em Caelum, um planeta de mistérios e poderes sobrenaturais. Ele é primo de Ethan Nova, a deusa da tempestade, e compartilha um vínculo especial com ela. Desde jovem, Gabriel manifestou habilidades únicas e incomuns, tornando-o uma figura intrigante entre os habitantes de Caelum.
+Maude Connor é um ser extraordinário que reside em Caelum, um planeta de mistérios e poderes sobrenaturais. Ele é primo de Ethan Nova, a deusa da tempestade, e compartilha um vínculo especial com ela. Desde jovem, Gabriel manifestou habilidades únicas e incomuns, tornando-o uma figura intrigante entre os habitantes de Caelum.
 <br></br><br></br>
 A habilidade de Gabriel de controlar o tempo é uma das suas características mais impressionantes. Ele aprendeu a dominar essa habilidade ao longo dos anos, permitindo-lhe parar o tempo ao seu redor quando necessário. Essa capacidade confere a ele uma vantagem estratégica em situações perigosas, permitindo-lhe tomar decisões e agir enquanto todos os outros estão imóveis.
 <br></br><br></br>
@@ -57,7 +57,7 @@ Outra habilidade notável de Gabriel é o controle de sentimentos. Ele pode mani
 <br></br><br></br>
 Gabriel usa seus poderes de forma responsável e com compaixão. Ele está sempre em busca de equilíbrio e harmonia em Caelum, usando suas habilidades para ajudar aqueles que precisam e proteger seu planeta natal. Seu vínculo com Ethan Nova fortalece seu propósito e juntos eles trabalham para preservar a paz e a segurança de Caelum.
 <br></br><br></br>
-Gabriel Nova é uma figura cativante e misteriosa em Caelum, um protetor habilidoso com o poder de parar o tempo, controlar sonhos e sentimentos. Sua presença é reconfortante para aqueles que o conhecem, pois ele traz serenidade e influencia positivamente o mundo ao seu redor. Sua jornada continua, desvendando os segredos de Caelum e usando seus dons para trazer esperança e transformação.
+Maude Connor é uma figura cativante e misteriosa em Caelum, um protetor habilidoso com o poder de parar o tempo, controlar sonhos e sentimentos. Sua presença é reconfortante para aqueles que o conhecem, pois ele traz serenidade e influencia positivamente o mundo ao seu redor. Sua jornada continua, desvendando os segredos de Caelum e usando seus dons para trazer esperança e transformação.
 
     </h1>
  )
@@ -165,7 +165,7 @@ A história de Devan Stone é uma jornada de autodescoberta, superação e reden
           setName={setNamePerson} name='Noah Summers' id='Backimg-6'/>
 
         <Cardprops setValue={setShowPup} value={showPup} setText={setDescription}
-          setName={setNamePerson}  name='Gabriel Nova' id='Backimg-7'/>
+          setName={setNamePerson}  name='Maude Connor' id='Backimg-7'/>
 
         <Cardprops setValue={setShowPup} value={showPup} setText={setDescription}
           setName={setNamePerson} name='Adrian Colins' id='Backimg-8'/>
