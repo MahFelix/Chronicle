@@ -14,7 +14,7 @@ function App() {
 }
 
   return (
-    <body  className="flex-col  justify-center w-[100%] h-[100%] lg:h-[96.90vh] max-lg:pb-[200px]">
+    <body  className="flex-col  justify-center w-[100%] h-[100%] lg:h-[120.90vh] max-lg:pb-[200px]">
 
 
       <div className="flex justify-center mt-[30px] mb-[30px] max-lg:flex">
@@ -37,7 +37,7 @@ function App() {
          <div id='navbar' className=" justify-end items-start  flex lg:hidden">
 
          <div className="">
-          <ul className="flex flex-col justify-start mt-[100px] gap-[10px] text-2xl  text-[#9E9E9E]  max-lg:text-sm max-lg:mt-200 max-lg:absolute max-lg:right-[15px]
+          <ul className="flex lg:hidden flex-col justify-start mt-[100px] gap-[10px] text-2xl  text-[#9E9E9E]  max-lg:text-sm max-lg:mt-200 max-lg:absolute max-lg:right-[15px]
           max-lg:top-0 ">
                   <li className=" w-full p-1 border-b  hover:bg-black  text-[#9E9E9E]"> INÍCIO </li>
                   <li className=" w-full p-1 border-b  hover:bg-black text-[#9E9E9E]"> HISTORIAS </li>
